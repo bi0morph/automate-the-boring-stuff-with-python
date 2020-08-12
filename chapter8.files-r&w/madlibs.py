@@ -3,7 +3,6 @@
 
 import re
 
-# TODO
 # open file and get text
 textFile = open('./mad-lab/text.txt', 'r')
 text = textFile.read()
