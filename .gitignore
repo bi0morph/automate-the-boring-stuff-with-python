@@ -1,1 +1,5 @@
 .idea
+.DS_Store
+/chapter8.files-r&w/capitalquiz
+/chapter8.files-r&w/mcb.db
+*.zip
